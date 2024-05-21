@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aaditya-s6&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aaditya-s6?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aaditya-s6?label=Stars&style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/Amitgithu?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Amitgithu?label=Stars&style=social" alt="Stars" />
 </p>
 
 <h2 align="left">About Me:</h2>
