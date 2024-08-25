@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Amit Kumar 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaditya-s6&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amitgithu&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Amitgithu?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Amitgithu?label=Stars&style=social" alt="Stars" />
 </p>
@@ -56,7 +56,7 @@
 </p>
 <h2 align="left">Connect with Me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/aaditya-saraswat-008393172" target="_blank">
+  <a href="https://www.linkedin.com/in/amit-kumar-35545b246/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:amit909563@gmail.com" target="_blank">
